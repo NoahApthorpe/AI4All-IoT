@@ -17,7 +17,7 @@ Repository for Princeton University 2018 AI4All IoT project.
 
 *Tuesday 7/31/18:* [7_Probability.ipynb](https://github.com/NoahApthorpe/AI4All-IoT/blob/master/7_Probability.ipynb)
 
-*Wednesday 8/1/18:* [8_Unsupervised.ipynb](https://github.com/NoahApthorpe/AI4All-IoT/blob/master/5_Regression.ipynb) and [Unsupervised Learning](https://docs.google.com/document/d/1Pw3QQBT7BvSTljynJluE8CJ0ebz_9jWoN9DC5PKf1WE/edit?usp=sharing)
+*Wednesday 8/1/18:* [8_Unsupervised.ipynb](https://github.com/NoahApthorpe/AI4All-IoT/blob/master/8_Unsupervised.ipynb) and [Unsupervised Learning](https://docs.google.com/document/d/1Pw3QQBT7BvSTljynJluE8CJ0ebz_9jWoN9DC5PKf1WE/edit?usp=sharing)
 
 *Thursday 8/2/18:* Field trip, no project work
 
