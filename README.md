@@ -1,3 +1,7 @@
+# ARCHIVE
+
+**This repository is a read-only archive from an original fork of a program we developed from AI4All. It is no longer being maintained and eventually will be deleted. Please see the [latest version](https://github.com/noise-lab/ml-networking).**
+
 # Machine Learning for Networking
 
 This repository contains exercises, resources, and information for learning machine learning concepts and applying them to networking. 
